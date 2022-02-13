@@ -1,5 +1,11 @@
 ### Olá! Seja bem vindo(a) ao meu perfil.
 
+Um pouco sobre mim:
+
+- 🔭 Trabalho como desenvolvedor C#;
+- 🌱 Estudo desenvolvimento Web e Mobile, pois pretendo me tornar um profissional dessa área;
+- 🎓 Sou técnico em informática para a Internet e acadêmico de Engenharia de Computação;
+
 ##
 ### Estatísticas:
 
@@ -43,16 +49,3 @@
 ### Meu progresso:
   
    ![Snake animation](https://github.com/mateusOliveiraBrito/mateusOliveiraBrito/blob/output/github-contribution-grid-snake.svg)
-
-<!--**mateusOliveiraBrito/mateusOliveiraBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
