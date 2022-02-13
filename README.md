@@ -1,5 +1,8 @@
 ### Olá! Seja bem vindo(a) ao meu perfil.
 
+##
+### Estatísticas:
+
 <div align="center">
   <a href="https://github.com/mateusOliveiraBrito">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusOliveiraBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -31,7 +34,7 @@
 ##
 ### Me encontre em minhas redes sociais:
   
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/mateus-oliveira-brito-019195141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/_mateus_brito_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
