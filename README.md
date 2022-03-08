@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 
 - 🔭 Trabalho como desenvolvedor C#;
-- 🌱 Estudo desenvolvimento Web e Mobile, pois pretendo me tornar um profissional dessa área;
+<!--- 🌱 Estudo desenvolvimento Web e Mobile, pois pretendo me tornar um profissional dessa área;-->
 - 🎓 Sou técnico em informática para a Internet e acadêmico de Engenharia de Computação;
 
 ##
