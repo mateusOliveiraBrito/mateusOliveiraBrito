@@ -11,9 +11,28 @@ Um pouco sobre mim:
 
 <div align="center">
   <a href="https://github.com/mateusOliveiraBrito">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusOliveiraBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOliveiraBrito&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <!--
+<div align="center">
+  <a href="https://github.com/Rafael-N-Moura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-N-Moura&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-N-Moura&layout=compact&langs_count=7&theme=nord"/>
+</div>
+-->
+  
+<!--
+ANTIGO
+<div align="center">
+  <a href="https://github.com/mateusOliveiraBrito">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusOliveiraBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_all_issues=true&include_all_pull_requests=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOliveiraBrito&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
+  
+
 
 ##
 ### Essas são algumas das tecnologias que mais conheço:
