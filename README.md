@@ -1,65 +1,56 @@
-### Olá! Seja bem vindo(a) ao meu perfil.
+# Mateus Oliveira Brito
 
-Um pouco sobre mim:
+Desenvolvedor de Software com foco em **Backend**, trabalhando principalmente com **C#/.NET e ASP.NET Core**.
+Atuo no desenvolvimento e evolução de serviços de negócio, **APIs REST**, processamento assíncrono e **arquiteturas orientadas a eventos**, focando constantemente em qualidade, escalabilidade e clareza de código.
 
-- 🔭 Trabalho como desenvolvedor C#;
-<!--- 🌱 Estudo desenvolvimento Web e Mobile, pois pretendo me tornar um profissional dessa área;-->
-- 🎓 Sou técnico em informática para a Internet e acadêmico de Engenharia de Computação;
+- 📍 Trindade/GO — Brasil
+- 💼 Backend Developer @ Way Data Solution
+- 🎓 Engenharia de Computação (IF Goiano — em conclusão)
+- 🌎 Inglês: leitura técnica e comunicação escrita
 
-##
-### Estatísticas:
+---
 
-<div align="center">
-  <a href="https://github.com/mateusOliveiraBrito">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusOliveiraBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOliveiraBrito&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<!--
-ANTIGO
-<div align="center">
-  <a href="https://github.com/mateusOliveiraBrito">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusOliveiraBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_all_issues=true&include_all_pull_requests=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusOliveiraBrito&layout=compact&langs_count=7&theme=dark"/>
-</div>
--->
-  
+## Stack principal
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework, ADO.NET  
+**Mensageria/Tempo real:** RabbitMQ, SignalR  
+**Bancos:** SQL Server, PostgreSQL, Redis, MongoDB  
+**Engenharia:** Clean Architecture, SOLID, DDD, testes (xUnit/NUnit)  
+**Ferramentas:** Git, Docker, Postman/Insomnia
 
+---
 
-##
-### Essas são algumas das tecnologias que mais conheço:
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  />
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+## Minha experiência
+- Construção e manutenção de **APIs REST** com boas práticas (SOLID, DDD, Clean Architecture)
+- Sistemas **assíncronos** e **event-driven** (mensageria, workers, filas)
+- **Modelagem e performance** de banco de dados (principalmente SQL Server/PostgreSQL)
+- **Testes automatizados**, revisão de código e documentação técnica
+- Colaboração com time (onboarding, padrões, decisões de design e arquitetura)
 
-##
-### Essas são as tecnologias que estudo atualmente e pretendo me aprofundar:
-  
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+---
 
-##
-### Me encontre em minhas redes sociais:
-  
-<div align="center">
-    <a href="https://www.linkedin.com/in/mateus-oliveira-brito-019195141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="mailto:moliveirabrito.institucional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/_mateus_brito_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+## Projetos em destaque
+### 🗺️ Routy: Roteirização Turística (Trabalho de Conclusão de Curso)
+[Backend API](https://github.com/mateusOliveiraBrito/routy_backend/tree/develop) ·
+[Android App](https://github.com/mateusOliveiraBrito/routy_mobile/tree/main)
 
-##
-### Meu progresso:
-  
-   ![Snake animation](https://github.com/mateusOliveiraBrito/mateusOliveiraBrito/blob/output/github-contribution-grid-snake.svg)
+Aplicativo Android (Java) + backend ASP.NET Core para geração de rotas turísticas.
+Modela pontos turísticos como grafo e aplica heurísticas do Problema do Caixeiro Viajante para otimização de percurso, integrando dados do OpenStreetMap.
+
+**Tecnologias:** ASP.NET Core, Java (Android), PostgreSQL, OR-Tools, OSRM, MapLibre
+
+### ✅ Ambiente de Gerenciamento de Testes E2E
+Plataforma para controlar sessões/estados de testes automatizados, com foco em organização de ambiente e automação de rotinas para times.
+
+**Tecnologias:** ASP.NET Core, SQL Server, Docker, Linux/Windows
+
+### 💬 Chat Web com SignalR
+Projeto de comunicação em tempo real usando SignalR.
+
+**Tecnologias:** ASP.NET Core, SignalR, Blazor, SQLite
+
+---
+
+## Meios de comunicação
+- LinkedIn: https://www.linkedin.com/in/mateus-oliveira-brito-019195141
+- GitHub: https://github.com/mateusOliveiraBrito
+- Email: moliveirabrito.institucional@gmail.com
